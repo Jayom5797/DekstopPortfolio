@@ -15,7 +15,7 @@ import { useIntersectionObserver } from '../../../hooks/useIntersectionObserver'
  *@returns {JSX.Element} - Rendered ProjectDesktopSlide component
  */
 const ProjectDesktopSlide = (): JSX.Element => {
-  return null;
+  return <></>;
 };
 
 export default ProjectDesktopSlide;
