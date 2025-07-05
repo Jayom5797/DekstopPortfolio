@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import * as Styled from './AnimatedRouterLink.styles';
-import { Link } from 'react-router-dom';
+
 import useHover from '../../../hooks/useHover';
 
 export interface Props {
