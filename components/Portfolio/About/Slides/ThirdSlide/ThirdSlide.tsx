@@ -21,7 +21,7 @@ const ThirdSlide = (): JSX.Element => {
   } = useAboutConfig();
 
   return (
-    <Slide height={'100vh'} anchorID={'third-slide'}>
+  
       <Slide height={'100vh'} anchorID={'third-slide'} bgColor={'#000'}}>
         <div className="skills-wrapper">
           <SectionHeader
